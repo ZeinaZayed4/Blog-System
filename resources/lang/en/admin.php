@@ -1,0 +1,32 @@
+<?php
+   
+   return [
+       'email' => 'Email',
+       'password' => 'Password',
+       'login' => 'Login',
+       'login_page' => 'Admin Panel Login',
+       'remember_me' => 'Remember Me',
+       'login_failed' => 'Invalid login credentials',
+       'logout' => 'Logout',
+       'categories' => 'Categories',
+       'dashboard' => 'Dashboard',
+       'action' => 'Manage',
+       'create' => 'Add',
+       'edit' => 'Edit',
+       'show' => 'Show',
+       'delete' => 'Delete',
+       'save' => 'Update',
+       'delete_message' => 'Are you sure you want to delete this record?',
+       'cancel' => 'Cancel',
+       'news' => 'News',
+       'created_at' => 'Creation Date',
+       'updated_at' => 'Update Date',
+       'choose' => 'Choose',
+       'users' => 'Users',
+       'success' => 'Success',
+       'added' => 'The record has been successfully added.',
+       'updated' => 'The record has been successfully updated.',
+       'deleted' => 'The record has been successfully deleted.',
+       'comments' => 'Comments',
+   ];
+
